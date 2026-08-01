@@ -1,13 +1,31 @@
+<div align="center">
+
 # lmbkus 👋
 
-🐧 Uso Arch (btw) y tengo mi propio setup de qtile que voy ajustando cada tanto — está en el repo [Qtile](https://github.com/lmbkus/Qtile). Nada exagerado, pero me gusta tener todo prolijo y andando a mi manera antes que usar algo prearmado.
+<img src="https://readme-typing-svg.demolab.com/?lines=Arch+Linux;Python+%26+C;Cybersecurity+%2F%2F+Learning;Building+my+own+setup&font=Fira+Code&center=true&width=440&height=45&color=7B5CB5&vCenter=true&size=22" />
 
-💻 Programo sobre todo en Python y C. Python para todo lo rápido — scripts, herramientas chicas, prototipos — y C cuando quiero entender qué está pasando de verdad por debajo. Bash aparece en el medio, para pegar cosas y automatizar lo que hago seguido en la terminal.
+</div>
 
-🔐 Últimamente ando metido en ciberseguridad, más que nada por curiosidad: CTFs de vez en cuando, leer sobre cómo se explotan vulnerabilidades, entender el sistema desde el lado de "cómo se rompe" y no solo "cómo se usa". Todavía estoy más en la etapa de aprender que de mostrar resultados, pero es lo que más me está enganchando últimamente.
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arch,linux,python,c,bash" />
-</p>
+🐧 **Arch (btw)** — I run my own qtile setup that I keep tweaking, check it out in [Qtile](https://github.com/lmbkus/Qtile). Nothing fancy, I just like having everything set up my way instead of using something prebuilt.
 
-Si andás por acá y usás Arch o qtile, seguramente ya viste algo parecido en mis repos. 🙂
+💻 **Code** — mostly Python and C. Python for anything fast — scripts, small tools, prototypes — and C when I want to actually understand what's happening under the hood. Bash shows up in between, gluing things together and automating whatever I do often in the terminal.
+
+🔐 **Security** — lately I've been getting into cybersecurity, mostly out of curiosity: the occasional CTF, reading about how vulnerabilities get exploited, understanding systems from the "how does this break" side instead of just "how do I use this." Still more in the learning phase than the showing-results phase, but it's what's hooking me the most right now.
+
+<div align="center">
+
+### ⚡ Stack
+
+<img src="https://skillicons.dev/icons?i=arch,linux,python,c,bash" />
+
+</div>
+
+---
+
+<div align="center">
+
+_If you're into Arch or qtile, you've probably already seen something like this in my repos 🙂_
+
+</div>
